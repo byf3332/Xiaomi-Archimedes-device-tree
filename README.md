@@ -1,4 +1,4 @@
-# Android device tree for Xiaomi Archimedes (Archimedes)
+# Android device tree for Xiaomi Archytas (Archytas)
 
 ```
 #
